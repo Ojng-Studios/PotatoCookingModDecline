@@ -1,0 +1,44 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Potatocooking",
+      "type": "fuel",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potatocooking"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "pcmd",
+    "modName": "PotatoCookingModDecline",
+    "version": "0.0.1",
+    "description": "A Mod That Allows Potatoes To Be Burned As Fuel",
+    "author": "BunnimimiTotem, MCr",
+    "websiteURL": "https://github.com/Ojng-Studios/PotatoCookingModDecline/tree/1.12.2",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "None.",
+    "modElementsPackage": "io.github.ojngstudios.pcmd",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

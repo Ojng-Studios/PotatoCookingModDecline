@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "pcmd",
+    "name": "PotatoCookingModDecline",
+    "description": "A Mod That Allows Potatoes To Be Burned As Fuel",
+    "version": "0.0.1",
+    "credits": "None.",
+    "logoFile": "assets/pcmd/textures/logo.png",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Ojng-Studios/PotatoCookingModDecline/tree/1.12.2",
+    "updateUrl": "",
+    "authorList": [
+      "BunnimimiTotem, MCr"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
